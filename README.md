@@ -24,7 +24,7 @@ class GowthumVijaay:
     location   = "Chennai, India"
     education  = [
         "B.S. Data Science & AI @ IIT Madras 🎓",
-        "B.E. EEE @ Panimalar Engineering College 🎓"
+        "B.E. EEE @ Panimalar Engineering College (CGPA: 8.4) 🎓"
     ]
     leadership = "Assistant VP of Membership @ Chennai Toastmasters Club (30+ Members)"
     grind      = [
@@ -71,6 +71,7 @@ class GowthumVijaay:
 
 ### 🏆 Key Milestones
 
+*   🎓 **Academic Excellence:** Dual-Degree Student (B.S. Data Science & AI @ IIT Madras & B.E. EEE @ Panimalar Engineering College with an outstanding **8.4 CGPA**).
 *   🥇 **Double Gold Medalist:** International Math Olympiad (IMO) & International Science Olympiad (ISO).
 *   🚀 **10+ Hackathons:** Participated and placed in major national and global competitive stages.
 *   🌍 **Top 800 Globally:** Meta x Scaler OpenEnv Hackathon (out of 51,000+ teams).
