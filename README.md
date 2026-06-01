@@ -1,18 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gowthum%20Vijaay%20D&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20Engineer%20|%20AI%20Systems%20Researcher&descAlignY=62" alt="Header" />
+  <img src="./header.svg" alt="Gowthum Vijaay D - Header" width="800" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=🏆+1st+Place+National+Winner+--+Glitchyugam;🚀+Participated+in+10%2B+Hackathons;🥇+IMO+%26+ISO+Double+Gold+Medalist;♟️+Top+0.5%25+Globally+on+Chess.com" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./ticker.svg" alt="System News Ticker" width="800" />
+  <img src="https://img.shields.io/badge/GLITCHYUGAM_HACKATHON-1ST_PLACE-FF007F?style=flat-square" />
+  <img src="https://img.shields.io/badge/MATH_OLYMPIAD-GOLD_MEDALIST-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCIENCE_OLYMPIAD-GOLD_MEDALIST-FFD700?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/HACKATHONS-10%2B_PARTICIPATED-00FF66?style=flat-square" />
+  <img src="https://img.shields.io/badge/CHESS.COM-1900_ELO_(TOP_0.5%25)-00f0ff?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/IIT_MADRAS-B.S._DATA_SCIENCE_%26_AI-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/PANIMALAR_COLLEGE-B.E._EEE_(CGPA_8.4)-E4405F?style=flat-square" />
+  <br>
+  <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-GOWTHUM_VIJAAY_D-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghvc/?username=Themighty007&amp;color=00f0ff&amp;style=flat-square&amp;label=PROFILE_VIEWS" alt="Profile Views" />
 </div>
+
+<br>
 
 ---
 
@@ -64,13 +77,13 @@ class GowthumVijaay:
 ### 🛠 Tech Arsenal
 
 #### 🤖 Agentic AI, LLMs & Machine Learning
-<img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Servers-00f0ff?style=flat-square&logo=gitbook&logoColor=black" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Unsloth%20/%20LoRA-FF4B4B?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_Inference-00C853?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&amp;logo=openai&amp;logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Servers-00f0ff?style=flat-square&amp;logo=gitbook&amp;logoColor=black" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&amp;logo=meta&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Unsloth%20/%20LoRA-FF4B4B?style=flat-square&amp;logo=python&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&amp;logo=openai&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Groq_Inference-00C853?style=flat-square&amp;logo=nvidia&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" />
 
 #### ⚙️ Backend, DevOps & Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AMD_AI_Stack-ED1C24?style=flat-square&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" /> <img src="https://img.shields.io/badge/AMD_AI_Stack-ED1C24?style=flat-square&amp;logo=amd&amp;logoColor=white" />
 
 #### 🌌 Web & Supporting Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&logo=spline&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&amp;logo=spline&amp;logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&amp;logo=webgl&amp;logoColor=white" />
 
 ---
 
@@ -88,10 +101,10 @@ class GowthumVijaay:
   <p><b>⚡ Open for AI systems research, agent orchestration roles, and high-impact engineering projects. ⚡</b></p>
   
   <a href="mailto:gowthumvijaay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/themighty_007_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
   <br>
   <i>"The only way to predict the future is to build it."</i>
