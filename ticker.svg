@@ -1,0 +1,92 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+
+        .ticker-wrap {
+          width: 100%;
+          height: 46px;
+          background: #0d1117;
+          border: 1px dashed #00f0ff;
+          border-radius: 6px;
+          display: flex;
+          align-items: center;
+          padding: 0 15px;
+          box-sizing: border-box;
+          overflow: hidden;
+          font-family: 'Share Tech Mono', monospace;
+        }
+
+        .ticker-label {
+          color: #00f0ff;
+          font-weight: bold;
+          margin-right: 10px;
+          font-size: 14px;
+          display: flex;
+          align-items: center;
+          gap: 5px;
+          white-space: nowrap;
+        }
+
+        .ticker-content {
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: flex-start;
+          animation: slideUp 12s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
+        }
+
+        .ticker-item {
+          height: 46px;
+          display: flex;
+          align-items: center;
+          color: #ffffff;
+          font-size: 14px;
+          white-space: nowrap;
+        }
+
+        .highlight {
+          color: #ff007f;
+          font-weight: bold;
+        }
+
+        .green {
+          color: #00ff66;
+        }
+
+        @keyframes slideUp {
+          0%, 20% { transform: translateY(0); }
+          25%, 45% { transform: translateY(-46px); }
+          50%, 70% { transform: translateY(-92px); }
+          75%, 95% { transform: translateY(-138px); }
+          100% { transform: translateY(0); }
+        }
+
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 14px;
+          background: #00f0ff;
+          margin-left: 5px;
+          animation: blink 0.8s step-end infinite;
+        }
+
+        @keyframes blink {
+          50% { background: transparent; }
+        }
+      </style>
+      <div class="ticker-wrap">
+        <div class="ticker-label">
+          <span>SYSTEM_FEED &gt;&gt;</span>
+        </div>
+        <div class="ticker-content">
+          <div class="ticker-item">🏆 <span class="highlight">GLITCHYUGAM HACKATHON:</span> 1st Place National Level Winner (SAGIS AI PLATFORM)<span class="cursor"></span></div>
+          <div class="ticker-item">🚀 <span class="highlight">CAMPAIGNS:</span> Participated in 10+ Hackathons &amp; shipped core products<span class="cursor"></span></div>
+          <div class="ticker-item">🥇 <span class="green">OLYMPIAD:</span> IMO &amp; ISO Double Gold Medalist (Global mathematical &amp; science rigor)<span class="cursor"></span></div>
+          <div class="ticker-item">♟️ <span class="green">CHESS MASTER:</span> Top 0.5% globally with 1900 ELO on Chess.com<span class="cursor"></span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

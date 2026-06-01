@@ -6,12 +6,12 @@
   <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gowthumvijaay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/themighty_007_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./ticker.svg" alt="System News Ticker" width="800" />
 </div>
 
 ---
@@ -80,5 +80,13 @@ class GowthumVijaay:
 
 <div align="center">
   <p><b>⚡ Open for AI research roles, 3D Web collaborations, and high-impact engineering projects. ⚡</b></p>
+  
+  <a href="mailto:gowthumvijaay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/themighty_007_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br>
   <i>"The only way to predict the future is to build it."</i>
 </div>
