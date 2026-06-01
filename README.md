@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gowthum%20Vijaay%20D&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20|%20AI%20Systems%20Researcher%20|%203D%20Web%20Architect&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="./header.svg" alt="Gowthum Vijaay D - Animated Header" width="800" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gowthumvijaay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🏆 National Hackathon Winner | 🥇 ISO Gold Medalist</h3>
+  <h3>🏆 National Hackathon Winner | 🥇 IMO & ISO Double Gold Medalist</h3>
   <h3>🤖 Building Autonomous AI for Real-World Impact</h3>
 </div>
 
@@ -35,9 +32,15 @@ class GowthumVijaay:
             "B.E. EEE @ Panimalar Engineering College 🎓"
         ]
 
+    def executive_leadership(self):
+        return {
+            "Role": "Assistant Vice President of Membership @ Chennai Toastmasters Club",
+            "Impact": "Orchestrated end-to-end membership lifecycle (recruitment, onboarding, retention) for a 30+ member chapter. Crafted strategic communications and led executive coaching."
+        }
+
     def current_grind(self):
         return [
-            "🧠 Engineering Multi-Agent RL Systems & Agentic Workflows",
+            "🧠 Engineering Multi-Agent RL Systems & Autonomous Agentic Workflows",
             "🌐 Crafting mind-bending 3D WebGL experiences",
             "♟️ Dominating the chessboard (Top 0.5% Globally on Chess.com)"
         ]
@@ -50,10 +53,10 @@ class GowthumVijaay:
 
 ### 🏆 Hall of Fame
 
-| 🏆 Meta x Scaler Hackathon | 🥇 Science Olympiad | 🚀 Glitchyugam Symposium | ♟️ Chess.com |
+| 🏆 Meta x Scaler Hackathon | 🥇 Math Olympiad (IMO) | 🥇 Science Olympiad (ISO) | ♟️ Chess.com |
 | :---: | :---: | :---: | :---: |
-| **Top 800 Globally**<br>(out of 51k+ teams) | **Gold Medalist**<br>International Science Olympiad | **1st Place Winner**<br>National Level | **Top 0.5% Globally**<br>1900 Elo |
-| *RL Trading Environment* | *Global Recognition* | *Agentic AI Architecture* | *Strategic Mastermind* |
+| **Top 800 Globally**<br>(out of 51k+ teams) | **Gold Medalist**<br>International Math Olympiad | **Gold Medalist**<br>International Science Olympiad | **Top 0.5% Globally**<br>1900 Elo |
+| *RL Trading Environment* | *Global Mathematical Rigor* | *Global Scientific Inquiry* | *Strategic Mastermind* |
 
 ---
 
@@ -77,7 +80,7 @@ class GowthumVijaay:
 | Organization | Role | What I Built |
 |---|---|---|
 | **Freelance** | 3D Web & AI Architect | End-to-End Product Ownership: building 3D web experiences (Spline, WebGL) and integrating custom LLM features for clients. |
-| **Chennai Toastmasters** | Asst. VP of Membership | Executive leadership, managing 30+ members, delivering structured speeches, and orchestrating cross-functional collaboration. |
+| **Chennai Toastmasters** | Assistant VP of Membership | Held a formal officer role managing the full membership lifecycle (recruitment, onboarding, engagement, retention), delivering structured speeches, and coordinating cross-functional collaboration. |
 
 ---
 
@@ -116,9 +119,32 @@ class GowthumVijaay:
 
 ---
 
-### 📊 Vital Signs
+### 🔮 Current Quests & Focus
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Active Research Areas</h4>
+      <ul>
+        <li><b>Cognitive Architectures:</b> Building self-correcting agent loops.</li>
+        <li><b>Unsloth Fine-tuning:</b> Low-latency specialized model fine-tunes.</li>
+        <li><b>3D Web Orchestration:</b> Merging WebGL and generative AI state machines.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Strategic Milestones</h4>
+      <ul>
+        <li><b>Olympiad Double Gold:</b> IMO & ISO Gold medals.</li>
+        <li><b>Chess Mastery:</b> 1900 ELO (Top 0.5% globally).</li>
+        <li><b>Toastmasters:</b> Crafting and leading executive communication strategies.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Themighty007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Themighty007&theme=tokyonight&hide_border=true&background=0D1117&fire=ff9e64&ring=7aa2f7" />
+  <p><b>⚡ Always building. Always shipping. Ready to join forces with the best. ⚡</b></p>
+  <i>"The only way to predict the future is to build it."</i>
 </div>
