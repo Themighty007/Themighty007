@@ -1,147 +1,81 @@
 <div align="center">
-  <img src="./dashboard.svg" alt="Gowthum Vijaay D - Tactical Dashboard" width="800" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gowthum%20Vijaay%20D&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20Engineer%20|%20AI%20Systems%20Researcher%20|%203D%20Web%20Developer&descAlignY=62" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN_SECURE_ACCESS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gowthumvijaay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br>
-
 ---
 
-### 🛡️ Core Console // `WhoAmI`
+### ⚡ Who Am I?
 
 ```python
 class GowthumVijaay:
-    def __init__(self):
-        self.codename = "The Mighty 007"
-        self.specialty = "Agentic AI Architect & AI Systems Researcher"
-        self.origin = "Chennai, India"
-
-    def academic_foundations(self):
-        return {
-            "IIT Madras": "B.S. Data Science & AI 🎓",
-            "Panimalar College": "B.E. Electrical & Electronics Engineering 🎓"
-        }
-
-    def hackathons_timeline(self):
-        return {
-            "Campaigns": "10+ Hackathons Participated",
-            "Top Achievements": [
-                "Glitchyugam National Symposium: 1st Place Champion",
-                "Meta x Scaler OpenEnv: Top 800 globally out of 51,000+ teams"
-            ]
-        }
-
-    def leadership_matrix(self):
-        return {
-            "Org": "Chennai Toastmasters Club",
-            "Role": "Assistant Vice President of Membership",
-            "Tactical Duties": "Orchestrating end-to-end recruitment, onboarding, and retention frameworks for a 30+ member executive chapter."
-        }
-
-    def cognitive_bandwidth(self):
-        return {
-            "Olympiad Record": "Double Gold Medalist (International Math & Science Olympiads)",
-            "Game Theory": "Top 0.5% Globally on Chess.com (1900 ELO)",
-            "Active Grinds": ["Multi-Agent RL Orchestration", "WebGL Generative State Machines", "Specialized Model Quantization & Tuning"]
-        }
+    name       = "Gowthum Vijaay D"
+    location   = "Chennai, India"
+    education  = [
+        "B.S. Data Science & AI @ IIT Madras 🎓",
+        "B.E. EEE @ Panimalar Engineering College 🎓"
+    ]
+    leadership = "Assistant VP of Membership @ Chennai Toastmasters Club (30+ Members)"
+    grind      = [
+        "🤖 Engineering autonomous multi-agent systems & RL workflows",
+        "🌐 Developing production-grade websites & interactive 3D WebGL solutions",
+        "♟️ Competing at a master level in Chess (1900 ELO / Top 0.5% globally)"
+    ]
 ```
 
 ---
 
-### 📡 Holographic Project Catalog
+### 🚀 Featured Deployments
 
-<details open>
-  <summary><b>🔥 Flagship Deployment: SAGIS AI (1st Place Winner)</b></summary>
-  <br>
-  <blockquote>
-    <b>Proactive Risk Intelligence Platform & Neural Risk Engine</b><br>
-    Built an agentic risk intelligence platform running a Groq-accelerated Llama-3.3 70B model to calculate "Risk Entropy" metrics and deploy real-time autonomous interventions over a zero-latency React interface.
-  </blockquote>
-</details>
+*   **🛡️ SAGIS AI** — *Glitchyugam National Symposium (1st Place Winner)*
+    *   **Description:** Full-stack agentic platform acting as a Neural Risk Engine. Utilizes Groq-accelerated Llama-3.3 70B to compute real-time "Risk Entropy" and generate zero-latency interventions.
+    *   **Stack:** `React`, `FastAPI`, `Scikit-Learn`, `Llama-3.3`, `Groq`
 
-<details>
-  <summary><b>📈 Tactical Agent: TradeSim v3 (Top 800 Globally)</b></summary>
-  <br>
-  <blockquote>
-    <b>Reinforcement Learning Financial Simulation</b><br>
-    Engineered an institutional-grade RL environment modeling a 4-Axis Causal World Model, simulating multi-agent liquidity shocks and adversarial slippage. Utilized 4-bit LoRA adapter (Unsloth) for zero-shot sim-to-real transfer.
-  </blockquote>
-</details>
+*   **📈 TradeSim v3** — *Meta x Scaler OpenEnv (Top 800 / 51,000+ Teams)*
+    *   **Description:** Institutional-grade RL financial simulation featuring a 4-Axis Causal World Model, modeling multi-agent liquidity shocks and adversarial slippage with 4-bit LoRA (Unsloth) fine-tuning.
+    *   **Stack:** `PyTorch`, `LoRA`, `Unsloth`, `FastAPI`
 
-<details>
-  <summary><b>♟️ Deep Evaluator: Neural Chess AI</b></summary>
-  <br>
-  <blockquote>
-    <b>Grandmaster Evaluator Engine</b><br>
-    Trained a deep neural evaluation pipeline on 3 million+ GM games, combined with Monte Carlo Tree Search, achieving 1800+ Elo in self-play simulations.
-  </blockquote>
-</details>
+*   **🌐 3D Web & Full-Stack Freelancing**
+    *   **Description:** Delivering high-performance, immersive 3D websites and custom conversational AI solutions at scale for local businesses and global clients.
+    *   **Stack:** `Spline (3D Web)`, `WebGL`, `Tailwind CSS`, `Figma`, `FastAPI`
+
+*   **♟️ Neural Chess Engine**
+    *   **Description:** Deep neural evaluation function trained on 3M+ grandmaster games combined with MCTS, achieving 1800+ Elo in self-play.
+    *   **Stack:** `Python`, `PyTorch`, `Minimax`, `MCTS`
 
 ---
 
-### 🛠 System Core (Tech Stack)
+### 🛠 Tech Arsenal
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🧠 Neural & Agentic Engineering</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&logo=meta&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unsloth-FF4B4B?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/RLlib-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-00C853?style=flat-square&logo=nvidia&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>🎨 Generative & 3D Interactive</h4>
-      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&logo=spline&logoColor=white" />
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-</table>
+#### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Multi--Agent_Systems-4B0082?style=flat-square&logo=google-gemini&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20/%20Unsloth-FF4B4B?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-00C853?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+#### 🌌 Frontend & 3D Web Development
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&logo=spline&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+#### ⚙️ Backend, DevOps & Tools
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AMD_AI_Stack-ED1C24?style=flat-square&logo=amd&logoColor=white" />
 
 ---
 
-### ⚡ Telemetry & Focus Grid
+### 🏆 Key Milestones
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>📍 Active Operations</h4>
-      <ul>
-        <li>Cognitive Loop Architectures</li>
-        <li>Multi-Agent Autonomy</li>
-        <li>GPU Stack Optimizations</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏆 Hackathons & Campaigns</h4>
-      <ul>
-        <li>10+ Hackathons Cleared</li>
-        <li>National-Level Podium Finishes</li>
-        <li>High-Speed Product Prototyping</li>
-      </ul>
-    </td>
-    <td width="34%" valign="top">
-      <h4>♟️ Strategic Engine</h4>
-      <ul>
-        <li>1900 ELO Chess Tactics</li>
-        <li>Olympiad Mathematics Rigor</li>
-        <li>Global Analytical Mindset</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   🥇 **Double Gold Medalist:** International Math Olympiad (IMO) & International Science Olympiad (ISO).
+*   🚀 **10+ Hackathons:** Participated and placed in major national and global competitive stages.
+*   🌍 **Top 800 Globally:** Meta x Scaler OpenEnv Hackathon (out of 51,000+ teams).
+*   🗣️ **Toastmasters Leadership:** Assistant VP of Membership at Chennai Toastmasters Club, managing onboarding, recruitment, and structured speech systems for a 30+ member chapter.
 
 ---
 
 <div align="center">
-  <p><b>⚡ Telemetry link established. Always building, always shipping. ⚡</b></p>
+  <p><b>⚡ Open for AI research roles, 3D Web collaborations, and high-impact engineering projects. ⚡</b></p>
   <i>"The only way to predict the future is to build it."</i>
 </div>
