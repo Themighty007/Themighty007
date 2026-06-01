@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gowthum%20Vijaay%20D&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20Engineer%20|%20AI%20Systems%20Researcher%20|%203D%20Web%20Developer&descAlignY=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gowthum%20Vijaay%20D&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20Engineer%20|%20AI%20Systems%20Researcher&descAlignY=62" alt="Header" />
 </div>
 
 <div align="center">
@@ -28,59 +28,64 @@ class GowthumVijaay:
     ]
     leadership = "Assistant VP of Membership @ Chennai Toastmasters Club (30+ Members)"
     grind      = [
-        "🤖 Engineering autonomous multi-agent systems & RL workflows",
-        "🌐 Developing production-grade websites & interactive 3D WebGL solutions",
+        "🤖 Orchestrating autonomous AI agents & custom Model Context Protocol (MCP) servers",
+        "🧠 Tuning & quantization of LLMs (Unsloth, 4-bit LoRA) for edge inference",
+        "🌐 Designing full-stack web platforms with supporting 3D WebGL interfaces",
         "♟️ Competing at a master level in Chess (1900 ELO / Top 0.5% globally)"
     ]
 ```
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Featured AI & Agentic Systems
 
 *   **🛡️ SAGIS AI** — *Glitchyugam National Symposium (1st Place Winner)*
-    *   **Description:** Full-stack agentic platform acting as a Neural Risk Engine. Utilizes Groq-accelerated Llama-3.3 70B to compute real-time "Risk Entropy" and generate zero-latency interventions.
-    *   **Stack:** `React`, `FastAPI`, `Scikit-Learn`, `Llama-3.3`, `Groq`
+    *   **Description:** Full-stack agentic risk intelligence platform running a Groq-accelerated Llama-3.3 70B neural risk engine. Computes real-time "Risk Entropy" and deploys autonomous system interventions.
+    *   **Stack:** `FastAPI`, `Llama-3.3`, `Groq`, `Agentic Workflows`, `React`
 
 *   **📈 TradeSim v3** — *Meta x Scaler OpenEnv (Top 800 / 51,000+ Teams)*
-    *   **Description:** Institutional-grade RL financial simulation featuring a 4-Axis Causal World Model, modeling multi-agent liquidity shocks and adversarial slippage with 4-bit LoRA (Unsloth) fine-tuning.
-    *   **Stack:** `PyTorch`, `LoRA`, `Unsloth`, `FastAPI`
+    *   **Description:** Institutional-grade reinforcement learning trading environment featuring a 4-Axis Causal World Model, simulating multi-agent liquidity shocks and slippage with Unsloth 4-bit LoRA adapter transfer.
+    *   **Stack:** `PyTorch`, `Reinforcement Learning (RL)`, `LoRA`, `Unsloth`, `FastAPI`
 
-*   **🌐 3D Web & Full-Stack Freelancing**
-    *   **Description:** Delivering high-performance, immersive 3D websites and custom conversational AI solutions at scale for local businesses and global clients.
-    *   **Stack:** `Spline (3D Web)`, `WebGL`, `Tailwind CSS`, `Figma`, `FastAPI`
+*   **🔌 Custom MCP Servers & Tool Integration**
+    *   **Description:** Building high-speed Model Context Protocol (MCP) servers to equip LLMs with secure local context, database connectivity, and filesystem tools.
+    *   **Stack:** `MCP SDK`, `Python`, `Node.js`, `REST APIs`, `Docker`
 
-*   **♟️ Neural Chess Engine**
+*   **♟️ Neural Chess Game AI**
     *   **Description:** Deep neural evaluation function trained on 3M+ grandmaster games combined with MCTS, achieving 1800+ Elo in self-play.
     *   **Stack:** `Python`, `PyTorch`, `Minimax`, `MCTS`
+
+*   **🌐 Full-Stack & 3D Web Solutions (Supporting Stack)**
+    *   **Description:** Developing production-grade web systems and interactive 3D WebGL elements at scale for businesses.
+    *   **Stack:** `React.js`, `FastAPI`, `Spline`, `WebGL`, `Tailwind CSS`
 
 ---
 
 ### 🛠 Tech Arsenal
 
-#### 🤖 AI & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Multi--Agent_Systems-4B0082?style=flat-square&logo=google-gemini&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20/%20Unsloth-FF4B4B?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-00C853?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
-#### 🌌 Frontend & 3D Web Development
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&logo=spline&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+#### 🤖 Agentic AI, LLMs & Machine Learning
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Servers-00f0ff?style=flat-square&logo=gitbook&logoColor=black" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3.3-000000?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Unsloth%20/%20LoRA-FF4B4B?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_Inference-00C853?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 
 #### ⚙️ Backend, DevOps & Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AMD_AI_Stack-ED1C24?style=flat-square&logo=amd&logoColor=white" />
+
+#### 🌌 Web & Supporting Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Spline_3D-FF63A5?style=flat-square&logo=spline&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
 
 ---
 
 ### 🏆 Key Milestones
 
+*   🤖 **AI Agents Expert:** Certified in building multi-agent systems and MCP servers with AMD AI Academy.
 *   🎓 **Academic Excellence:** Dual-Degree Student (B.S. Data Science & AI @ IIT Madras & B.E. EEE @ Panimalar Engineering College with an outstanding **8.4 CGPA**).
 *   🥇 **Double Gold Medalist:** International Math Olympiad (IMO) & International Science Olympiad (ISO).
 *   🚀 **10+ Hackathons:** Participated and placed in major national and global competitive stages.
 *   🌍 **Top 800 Globally:** Meta x Scaler OpenEnv Hackathon (out of 51,000+ teams).
-*   🗣️ **Toastmasters Leadership:** Assistant VP of Membership at Chennai Toastmasters Club, managing onboarding, recruitment, and structured speech systems for a 30+ member chapter.
 
 ---
 
 <div align="center">
-  <p><b>⚡ Open for AI research roles, 3D Web collaborations, and high-impact engineering projects. ⚡</b></p>
+  <p><b>⚡ Open for AI systems research, agent orchestration roles, and high-impact engineering projects. ⚡</b></p>
   
   <a href="mailto:gowthumvijaay@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
