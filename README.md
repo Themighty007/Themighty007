@@ -3,26 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=🏆+1st+Place+National+Winner+--+Glitchyugam;🚀+Participated+in+10%2B+Hackathons;🥇+IMO+%26+ISO+Double+Gold+Medalist;♟️+Top+0.5%25+Globally+on+Chess.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=1st+Place+Glitchyugam+Winner;10%2B+Hackathons+Participated;IMO+%26+ISO+Double+Gold+Medalist;Chess+Top+0.5%25+Globally" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GLITCHYUGAM_HACKATHON-1ST_PLACE-FF007F?style=flat-square" />
-  <img src="https://img.shields.io/badge/MATH_OLYMPIAD-GOLD_MEDALIST-FFD700?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCIENCE_OLYMPIAD-GOLD_MEDALIST-FFD700?style=flat-square" />
-  <br>
-  <img src="https://img.shields.io/badge/HACKATHONS-10%2B_PARTICIPATED-00FF66?style=flat-square" />
   <img src="https://img.shields.io/badge/CHESS.COM-1900_ELO_(TOP_0.5%25)-00f0ff?style=flat-square" />
-  <br>
   <img src="https://img.shields.io/badge/IIT_MADRAS-B.S._DATA_SCIENCE_%26_AI-0077B5?style=flat-square" />
-  <img src="https://img.shields.io/badge/PANIMALAR_COLLEGE-B.E._EEE_(CGPA_8.4)-E4405F?style=flat-square" />
-  <br>
+  <br><br>
   <a href="https://linkedin.com/in/gowthum-vijaay-d" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-GOWTHUM_VIJAAY_D-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghvc/?username=Themighty007&amp;color=00f0ff&amp;style=flat-square&amp;label=PROFILE_VIEWS" alt="Profile Views" />
 </div>
 
 <br>
@@ -35,15 +28,11 @@
 class GowthumVijaay:
     name       = "Gowthum Vijaay D"
     location   = "Chennai, India"
-    education  = [
-        "B.S. Data Science & AI @ IIT Madras 🎓",
-        "B.E. EEE @ Panimalar Engineering College (CGPA: 8.4) 🎓"
-    ]
-    leadership = "Assistant VP of Membership @ Chennai Toastmasters Club (30+ Members)"
+    education  = "B.S. Data Science & AI @ IIT Madras 🎓"
+    leadership = "Assistant VP @ Chennai Toastmasters"
     grind      = [
         "🤖 Orchestrating autonomous AI agents & custom Model Context Protocol (MCP) servers",
         "🧠 Tuning & quantization of LLMs (Unsloth, 4-bit LoRA) for edge inference",
-        "🌐 Designing full-stack web platforms with supporting 3D WebGL interfaces",
         "♟️ Competing at a master level in Chess (1900 ELO / Top 0.5% globally)"
     ]
 ```
@@ -90,7 +79,7 @@ class GowthumVijaay:
 ### 🏆 Key Milestones
 
 *   🤖 **AI Agents Expert:** Certified in building multi-agent systems and MCP servers with AMD AI Academy.
-*   🎓 **Academic Excellence:** Dual-Degree Student (B.S. Data Science & AI @ IIT Madras & B.E. EEE @ Panimalar Engineering College with an outstanding **8.4 CGPA**).
+*   🎓 **Academic Foundations:** B.S. Data Science & AI @ IIT Madras & B.E. EEE @ Panimalar Engineering College (CGPA: 8.4).
 *   🥇 **Double Gold Medalist:** International Math Olympiad (IMO) & International Science Olympiad (ISO).
 *   🚀 **10+ Hackathons:** Participated and placed in major national and global competitive stages.
 *   🌍 **Top 800 Globally:** Meta x Scaler OpenEnv Hackathon (out of 51,000+ teams).
